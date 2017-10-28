@@ -1,2 +1,2 @@
-# Interpretador-para-L1
-Trabalho final composto de um avaliador de expressões e de inferência de tipos para a linguagem L1 da disciplina de Semântica Formal N
+# L1-Interpreter
+ Small interpreter for the L1 language to improve knowledge in semantics
